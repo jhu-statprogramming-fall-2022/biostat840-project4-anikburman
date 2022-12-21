@@ -1,0 +1,6 @@
+"0","state_wise = salary_potential %>%"
+"0","  group_by(state_name) %>%"
+"0","  summarise(early_pay = mean(early_career_pay),"
+"0","            mid_pay = mean(mid_career_pay),"
+"0","            better_world = mean(make_world_better_percent,"
+"0","                                na.rm = TRUE))"

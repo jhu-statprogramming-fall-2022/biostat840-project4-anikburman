@@ -1,0 +1,11 @@
+name: pr4shiny
+title:
+username:
+account: anikbuman
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 7925355
+bundleId: 6660257
+url: https://anikbuman.shinyapps.io/pr4shiny/
+when: 1671602044.34101
+lastSyncTime: 1671602044.34103
